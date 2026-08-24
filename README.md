@@ -6,4 +6,4 @@ The project focuses on data preprocessing, leakage-free imputation, model archit
 
 Current MLP baseline: 68.60% accuracy and 0.6402 macro F1.
 
-Built as a practical exercise in ML experimentation and model evaluation.
+Built as a practice exercise in ML experimentation and model evaluation.
